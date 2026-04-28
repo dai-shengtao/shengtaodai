@@ -1,153 +1,115 @@
+<img src="profile.jpg" width="180" align="right" />
+
 # Shengtao Dai
 
-### Applied Scientist  
-### Causal Inference · Machine Learning · Deep Learning · Econometrics
+### Economist / Applied Scientist  
+Amazon Stores Economics and Science  
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](#)
-[![Website](https://img.shields.io/badge/Website-Personal%20Page-black)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:shengtao.dai@outlook.com)
+<p>
+  <a href="#">Google Scholar</a> ·
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> ·
+  <a href="#">LinkedIn</a> ·
+  <a href="mailto:your_email@example.com">Email</a>
+</p>
 
 ---
 
 ## Biography
 
-I am an economist and applied scientist working at the intersection of **causal inference, machine learning, reinforcement learning, and marketplace design**. My research and applied work focus on building statistically rigorous and economically grounded systems for decision-making under uncertainty.
+I am an Economist / Applied Scientist at Amazon Stores Economics and Science. I received my Ph.D. in Economics from Boston College.
 
-I received my Ph.D. in Economics from Boston College. My work combines econometric theory, causal machine learning, and large-scale experimentation to solve problems in health, environment, social networks, inventory optimization, pricing, and platform design.
+My research lies at the intersection of **causal inference, machine learning, reinforcement learning, and economic decision-making**. I focus on building statistically rigorous and economically grounded frameworks to evaluate and optimize decisions in marketplaces, supply chains, pricing, and inventory systems.
 
-My current interests include:
+My work combines econometric theory, causal machine learning, quasi-experimental design, and large-scale data systems. In applied settings, I work on long-term value measurement, counterfactual policy evaluation, offline decision learning, and mechanism design.
 
-- Causal inference and double/debiased machine learning
-- Synthetic control, difference-in-differences, and quasi-experimental design
-- Reinforcement learning and offline policy evaluation
-- Marketplace mechanism design and supply-chain coordination
-- Long-term value measurement and business decision systems
+---
+
+## Research Interests
+
+- Causal Inference
+- Causal Machine Learning (Double ML, Orthogonal Methods)
+- Reinforcement Learning (Offline / Counterfactual)
+- Synthetic Control & Difference-in-Differences
+- Marketplace Design & Mechanism Design
+- Supply Chain Optimization
+- Long-Term Value Measurement
 
 ---
 
 ## Education
 
-- **Ph.D. in Economics**  
-  Boston College
+**Ph.D. in Economics**  
+Boston College  
 
-- **Research areas:**  
-  Econometrics, causal inference, machine learning, policy evaluation
+Fields: Econometrics, Machine Learning, Policy Evaluation  
 
 ---
 
 ## Experience
 
-- **Economist / Applied Scientist**  
-  Amazon Stores Economics and Science  
+**Amazon Stores Economics and Science**  
+Economist / Applied Scientist  
+2026 – Present  
 
-- **Research Scientist / Economist Intern**  
-  Uber  
+**Uber**  
+Economist / Research Scientist Intern  
+2025  
 
-- **Research projects**  
-  Causal inference, ML-based long-term value estimation, marketplace experimentation, inventory optimization
-
----
-
-## Research
-
-### Selected Research Topics
-
-1. **Neyman-Orthogonal Goodness-of-Fit Tests**  
-   Developed orthogonalized specification tests that reduce the effect of parameter estimation and improve power.
-
-2. **Causal ML for Health and Policy Evaluation**  
-   Applied double/debiased machine learning to estimate the effects of health-related interventions and policy changes.
-
-3. **Synthetic Control and Design-Based Inference**  
-   Studied synthetic control, synthetic DID, permutation inference, and conformal-style uncertainty quantification.
-
-4. **Offline RL and Long-Term Value Modeling**  
-   Built counterfactual reward and value-estimation frameworks for long-term inventory and marketplace decisions.
-
-5. **Mechanism Design for Supply-Chain Coordination**  
-   Designed economic frameworks for agent-to-agent coordination, consensus planning, and incentive-compatible surplus allocation.
+**Boston College**  
+Ph.D. Researcher  
+2020 – 2026  
 
 ---
 
-## Publications / Working Papers
+# Research
 
-- **Neyman-Orthogonal Goodness-of-Fit Tests for Distributions**  
-  Qingwei Qiao, coauthors.  
-  *Working paper.*
+## Working Papers
 
-- **Causal Effects of Health Food Access on Health Outcomes**  
-  Applied DDML framework to estimate policy-relevant treatment effects.
+**Neyman-Orthogonal Goodness-of-Fit Tests for Distributions**  
+Developed orthogonalized tests that remove parameter estimation bias and improve statistical power.
 
-- **Lockdown Policy, Economic Activity, and Environmental Outcomes**  
-  Quasi-experimental analysis of policy effects using high-dimensional controls.
+**Causal Effects of Health Food Access on Health Outcomes**  
+Applied double/debiased machine learning for policy evaluation.
 
-- **Public Health Intervention and Network Spillovers**  
-  Experimental and network-based causal inference framework.
+**Lockdown Policy, Economic Activity, and Environmental Outcomes**  
+Quasi-experimental analysis using high-dimensional controls.
 
-> Replace or expand this section with your formal paper titles, links, and journal/conference status.
+**Public Health Intervention and Network Spillovers**  
+Causal inference with network interactions and spillover effects.
 
 ---
 
-## Projects
+## Selected Projects
 
-### Flo Pro: Supply-Chain Coordination and Causal Measurement
+**Long-Term Value Modeling**  
+Built ML and causal inference pipelines to estimate long-term value of operational decisions.
 
-Designed evaluation frameworks for agent-based supply planning coordination, focusing on:
+**Synthetic Control for Supply-Chain Coordination**  
+Designed SC / permutation inference frameworks under interference and endogenous treatment.
 
-- Confirmation-rate redesign
-- Synthetic-control-based pilot evaluation
-- Vendor and ASIN-DC level treatment effect measurement
-- Spillover-aware experimental design
-- Financial impact measurement through LTFCF and in-stock metrics
+**Offline Reinforcement Learning Systems**  
+Developed counterfactual reward construction and offline policy evaluation methods.
 
-### Long-Term Value Modeling
-
-Built ML and causal inference pipelines for estimating long-term value of operational decisions, including:
-
-- Counterfactual reward construction
-- Bootstrap-based inference
-- Offline policy evaluation
-- Robustness and sensitivity analysis
-
-### Marketplace Negotiation and Mechanism Design
-
-Explored economic mechanisms for:
-
-- Near-miss demand recovery
-- Agentic negotiation
-- Co-funded discounts
-- Consensus planning protocols
-- VCG/CBT-style surplus allocation
+**Marketplace Mechanism Design**  
+Studied consensus planning, negotiation, and surplus allocation mechanisms.
 
 ---
 
 ## Technical Skills
 
 **Languages:** Python, SQL, R, Scala  
-**Methods:** Causal inference, econometrics, machine learning, reinforcement learning, synthetic control, DID, GMM  
-**Tools:** PyTorch, XGBoost, Spark, Presto, Athena, pandas, scikit-learn  
-**Domains:** Marketplace design, supply chain, inventory optimization, pricing, experimentation, policy evaluation
-
----
-
-## Service
-
-- Reviewer for economics, statistics, and machine learning research
-- Teaching assistant for econometrics, time series, treatment effects, and GMM
-- Contributor to applied causal inference and ML system design projects
+**Methods:** Causal Inference, Econometrics, Machine Learning, Reinforcement Learning  
+**Tools:** PyTorch, XGBoost, Spark, Presto, Athena  
 
 ---
 
 ## Contact
 
-- Email: `your_email@example.com`
-- LinkedIn: `your_linkedin`
-- Google Scholar: `your_scholar`
-- Personal website: `your_website`
+- Email: your_email@example.com  
+- GitHub: https://github.com/YOUR_USERNAME  
+- LinkedIn: your_linkedin  
+- Google Scholar: your_scholar  
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+© 2026 Qingwei Qiao
